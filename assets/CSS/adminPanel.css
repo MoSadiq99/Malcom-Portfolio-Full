@@ -1,0 +1,29 @@
+.main-title {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+
+.box1 button {
+    float: right;
+    margin-bottom: 20px;
+}
+
+.insert-msg {
+    text-align: center;
+    color: green;
+    font-weight: 500;
+    font-size: large;
+}
+
+/* .form-group {
+    margin-bottom: 20px !important;
+    padding-left: 400px !important;
+    padding-right: 400px !important;
+    position: relative;
+    top: 10px;
+
+} */

@@ -1,0 +1,48 @@
+/* 
+.navbar-nav {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.sidebar .btn-close {
+    margin-left: 99px;
+}
+
+@media all and (min-width: 992px) {
+
+    .nav-link:hover{
+        color: white !important;
+        background-color: black !important;
+    
+    }
+    
+} */
+
+header {
+    font-family: monospace !important;
+}
+
+
+.navbar-nav{
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.sidebar .btn-close {
+    margin-left: 99px;
+} 
+
+a contact:hover {
+    /* color: #5a23c8; */
+}
+
+@media all and (min-width: 992px) {
+
+    .dropdown-menu .dropdown-item:hover {
+        color: #000000;
+        background-color: #ffffff !important;
+    }
+
+}
+
+.x {
+    color: blue !important;
+}

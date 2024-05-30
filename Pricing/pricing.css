@@ -1,0 +1,36 @@
+body {
+  /* background-image: linear-gradient(180deg, var(--bs-secondary-bg), var(--bs-body-bg) 100px, var(--bs-body-bg)); */
+  background-color: white !important;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.card {
+  flex: 1 0 auto;
+  height: 400px !important;
+  font-family: geneva;
+}
+
+.navbar-nav{
+  background-color: rgb(255, 255, 255) !important;
+}
+
+header {
+  font-family: monospace !important;
+}
+
+table {
+  font-family: monospace !important;
+}
